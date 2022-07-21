@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "production": "learn-firebase-vijay",
+    "default": "learn-firebase-vijay"
+  },
+  "targets": {},
+  "etags": {}
+}
